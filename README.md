@@ -5,7 +5,7 @@
 </div>
 <br>
 
-> nemo theme for [Oh My Fish][omf-link].
+A dev-friendly theme for [Oh My Fish](http://github.com/oh-my-fish/oh-my-fish)
 
 ## Install
 
@@ -17,7 +17,7 @@ $ omf install https://github.com/netzwerg/theme-nemo
 ## Features
 
 * Informative git prompt (branch / staging info) 
-* Colors suitable for iTerm (particularly nice with my [hybrid](https://github.com/netzwerg/dotfiles/blob/zenmachine/Hybrid.terminal) scheme) 
+* Colors suitable for [iTerm](https://www.iterm2.com/) (particularly nice with my [hybrid](https://github.com/netzwerg/dotfiles/blob/zenmachine/Hybrid.terminal) scheme) 
 
 ## Screenshot
 
@@ -27,4 +27,4 @@ $ omf install https://github.com/netzwerg/theme-nemo
 
 # License
 
-[MIT][mit] © Rahel Lüthy 2015 
+[MIT](LICENSE) © Rahel Lüthy 2015 
