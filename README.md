@@ -11,28 +11,20 @@
 
 
 ```fish
-$ omf u nemo
+$ omf install https://github.com/netzwerg/theme-nemo
 ```
 
 ## Features
 
-* Lorem ipsum dolor sit amet.
-* Consectetur adipisicing elit.
+* Informative git prompt (branch / staging info) 
+* Colors suitable for iTerm (particularly nice with my [hybrid](https://github.com/netzwerg/dotfiles/blob/zenmachine/Hybrid.terminal) scheme) 
 
 ## Screenshot
 
 <p align="center">
-<img src="{{SCREENSHOT_URL}}">
+<img src="screenshot.png">
 </p>
 
 # License
 
-[MIT][mit] © [{{USER}}][author] et [al][contributors]
-
-
-[mit]:            http://opensource.org/licenses/MIT
-[author]:         http://github.com/{{USER}}
-[contributors]:   https://github.com/{{USER}}/nemo/graphs/contributors
-[omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
-
-[license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
+[MIT][mit] © Rahel Lüthy 2015 
