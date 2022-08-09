@@ -50,7 +50,7 @@ set -g __fish_git_prompt_color_cleanstate green --bold
 function fish_prompt
  set last_status $status
  set_color $fish_color_cwd
- printf '%s' (pwd)
+ printf '%s' (prompt_pwd --full-length-dirs=99)
  set_color normal
  printf '%s ' (__fish_git_prompt)
  set_color normal
